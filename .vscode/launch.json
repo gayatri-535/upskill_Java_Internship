@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Banking Information System",
+            "request": "launch",
+            "mainClass": "banking.BankingApp",
+            "projectName": "Banking_Information_System",
+            "vmArgs": "-Dfile.encoding=UTF-8",
+            "console": "integratedTerminal"
+        }
+    ]
+}
